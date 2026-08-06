@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0050-powx-n) |
 | [0877-stone-game](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
