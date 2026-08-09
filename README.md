@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0704-binary-search) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Recursion
 |  |
@@ -65,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
