@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0075-sort-colors) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
