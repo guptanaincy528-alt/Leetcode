@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0134-gas-station) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0877-stone-game) |
 ## Game Theory
@@ -106,5 +108,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
