@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0075-sort-colors) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
