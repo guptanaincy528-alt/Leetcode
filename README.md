@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Recursion
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0268-missing-number) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Divide and Conquer
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0709-to-lower-case) |
 <!---LeetCode Topics End-->
