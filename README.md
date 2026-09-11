@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sliding Window
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0567-permutation-in-string) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3668-restore-finishing-order](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Divide and Conquer
 |  |
 | ------- |
