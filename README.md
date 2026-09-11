@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1920-build-array-from-permutation](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -256,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
