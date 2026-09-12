@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0877-stone-game) |
+| [2119-a-number-after-a-double-reversal](https://github.com/guptanaincy528-alt/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3959-check-good-integer](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3959-check-good-integer) |
 ## Dynamic Programming
