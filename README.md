@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -272,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [3959-check-good-integer](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3959-check-good-integer) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
