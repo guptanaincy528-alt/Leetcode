@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0877-stone-game) |
+| [1952-three-divisors](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/guptanaincy528-alt/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3959-check-good-integer](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3959-check-good-integer) |
@@ -281,4 +282,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0206-reverse-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
