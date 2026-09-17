@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0796-rotate-string) |
 ## Queue
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
