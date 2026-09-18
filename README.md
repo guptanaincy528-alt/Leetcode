@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2733-neither-minimum-nor-maximum](https://github.com/guptanaincy528-alt/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0877-stone-game) |
+| [1512-number-of-good-pairs](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/guptanaincy528-alt/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0740-delete-and-earn) |
+| [1512-number-of-good-pairs](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3668-restore-finishing-order](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Divide and Conquer
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
