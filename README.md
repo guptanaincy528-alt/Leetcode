@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3838-weighted-word-mapping](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Sliding Window
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0796-rotate-string) |
+| [3838-weighted-word-mapping](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Queue
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [3838-weighted-word-mapping](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [3959-check-good-integer](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3959-check-good-integer) |
 ## Linked List
