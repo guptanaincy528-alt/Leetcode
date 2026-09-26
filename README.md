@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/guptanaincy528-alt/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2733-neither-minimum-nor-maximum](https://github.com/guptanaincy528-alt/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2942-find-words-containing-character](https://github.com/guptanaincy528-alt/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0796-rotate-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/guptanaincy528-alt/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/guptanaincy528-alt/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3838-weighted-word-mapping](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Queue
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/guptanaincy528-alt/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3838-weighted-word-mapping](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [3959-check-good-integer](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3959-check-good-integer) |
