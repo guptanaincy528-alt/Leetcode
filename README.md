@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/guptanaincy528-alt/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2733-neither-minimum-nor-maximum](https://github.com/guptanaincy528-alt/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/guptanaincy528-alt/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0268-missing-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Quicksort
 |  |
 | ------- |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1952-three-divisors) |
 ## Number Theory
 |  |
@@ -343,4 +347,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1952-three-divisors) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
