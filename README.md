@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2733-neither-minimum-nor-maximum](https://github.com/guptanaincy528-alt/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Recursion
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0134-gas-station) |
+| [1833-maximum-ice-cream-bars](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## String
 |  |
 | ------- |
@@ -363,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
