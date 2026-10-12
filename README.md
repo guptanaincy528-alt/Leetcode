@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0796-rotate-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/guptanaincy528-alt/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/guptanaincy528-alt/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
