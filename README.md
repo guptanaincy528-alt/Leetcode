@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/guptanaincy528-alt/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/guptanaincy528-alt/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/guptanaincy528-alt/Leetcode/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3024-type-of-triangle) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/guptanaincy528-alt/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/guptanaincy528-alt/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/guptanaincy528-alt/Leetcode/tree/master/2652-sum-multiples) |
+| [3024-type-of-triangle](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2733-neither-minimum-nor-maximum](https://github.com/guptanaincy528-alt/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/guptanaincy528-alt/Leetcode/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3024-type-of-triangle) |
 | [3467-transform-array-by-parity](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Recursion
 |  |
@@ -404,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
