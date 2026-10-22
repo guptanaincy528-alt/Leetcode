@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/guptanaincy528-alt/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
