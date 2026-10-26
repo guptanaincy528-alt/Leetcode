@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0202-happy-number) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0198-house-robber) |
 | [0740-delete-and-earn](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0740-delete-and-earn) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Counting Sort
 |  |
