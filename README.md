@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0075-sort-colors) |
+| [0120-triangle](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0134-gas-station) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0062-unique-paths) |
+| [0120-triangle](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0198-house-robber) |
 | [0740-delete-and-earn](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0740-delete-and-earn) |
