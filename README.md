@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0062-unique-paths) |
 | [0120-triangle](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0174-dungeon-game](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0198-house-robber) |
 | [0740-delete-and-earn](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0877-stone-game) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0174-dungeon-game](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0174-dungeon-game) |
 | [1672-richest-customer-wealth](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/guptanaincy528-alt/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
