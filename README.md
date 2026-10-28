@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0877-stone-game) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Game Theory
 |  |
 | ------- |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/guptanaincy528-alt/Leetcode/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/guptanaincy528-alt/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/guptanaincy528-alt/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/guptanaincy528-alt/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
